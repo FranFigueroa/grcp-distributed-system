@@ -1,0 +1,45 @@
+/github.com
+/go1.21.1.linux-amd64.tar.gz
+
+# Binaries and executables
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the Go build process
+/bin/
+/build/
+/dist/
+*.out
+
+# Generated protocol buffer files
+*.pb.go
+*.pb.gw.go
+
+# Dependency directories
+/vendor/
+
+# Go module files
+go.sum
+
+# Editor and IDE files
+*~
+*.swp
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage files
+coverage.out
+
+/proto
