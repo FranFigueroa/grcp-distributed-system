@@ -1,14 +1,15 @@
 package main
 
 import (
-	"context"
-    	"log"
-    	"net"
-    	"sync"
+    "context"
+    "log"
+    "net"
+    "sync"
 
-    	pb "github.com/FranFigueroa/distributed-task-processor/proto"
-    	"google.golang.org/grpc"
+    pb "github.com/FranFigueroa/distributed-task-processor/proto"
+    "google.golang.org/grpc"
 )
+
 
 type server struct {
 	pb.UnimplementedMasterServiceServer
