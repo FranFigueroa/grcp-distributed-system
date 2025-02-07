@@ -101,9 +101,6 @@ Mejoras Futuras:
     Interfaz de Usuario: Crear una interfaz web o aplicación cliente más interactiva.
     Manejo de Errores: Mejorar el manejo de errores y excepciones en los componentes.
 
-Contribuciones:
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para proponer cambios.
 
 Licencia:
 
